@@ -1,0 +1,66 @@
+p {
+	color: #191B21; /* RGB */
+
+	/*text-indent: 5em;*/
+}
+
+h1, h2 {
+	color: #03036B;
+	text-align: center;
+}
+
+body {
+	background-color: #FCFFD8;
+	font-family: sans-serif;
+	margin: 0 auto;
+	max-width: 50em;
+}
+
+table {
+	margin: 0 auto;
+	border: 1px solid #262626;
+	border-collapse: collapse;
+}
+
+tr, td, th {
+	border: 1px solid #262626;
+}
+
+td {
+	width: 5em;
+	text-align: center;
+}
+
+ol {
+	list-style-type: lower-roman;
+}
+
+#item3 {
+	font-weight: bold;
+	color: red;
+}
+
+#biography {
+	font-style: italic;
+}
+
+p.second {
+	color: brown;
+	text-decoration: none;
+}
+
+p.first {
+	text-decoration: underline;
+}
+
+a {
+	color: blue;
+}
+
+a:visited {
+	color: grey;
+}
+
+a:hover {
+	color: green;
+}
